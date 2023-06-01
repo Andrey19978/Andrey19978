@@ -1,0 +1,19 @@
+body{
+    background-color: #3366CC; /* Цвет фона веб-страницы */
+   } 
+   h1 {
+    background-color: RGB(249, 201, 16); /* Цвет фона под заголовком */
+   }
+   p {
+    background-color: maroon; /* Цвет фона под текстом параграфа */
+    color: white; /* Цвет текста */
+   }
+   h2 { 
+        background-color: #4b8a1c ; /* Цвет фона под заголовком */  
+   }
+   footer {
+    background-color: #4b8a1c;
+   }
+   header {
+    background-color: aquamarine;
+   }
